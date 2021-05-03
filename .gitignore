@@ -1,6 +1,2 @@
-node_modules/
-client/node_modules/
-.env
-id_rsa_priv.pem
-node_modules
-id_rsa_pub.pem
+/node_modules/
+/client/node_modules/
